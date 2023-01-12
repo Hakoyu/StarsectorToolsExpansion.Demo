@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <Platforms>AnyCPU;x64</Platforms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="StarsectorTools">
+      <HintPath>..\StarsectorTools\bin\Release\net6.0-windows\win-x64\StarsectorTools.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
