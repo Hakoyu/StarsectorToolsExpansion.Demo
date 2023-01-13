@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StarsectorToolsExpansionDemo", "StarsectorToolsExpansionDemo.csproj", "{D0F7D6F5-8828-4E66-8BBE-38848B0526D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StarsectorToolsExpansion.Demo", "StarsectorToolsExpansion.Demo.csproj", "{D0F7D6F5-8828-4E66-8BBE-38848B0526D4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

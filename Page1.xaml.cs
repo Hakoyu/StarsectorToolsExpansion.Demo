@@ -20,7 +20,7 @@ using HKW.TomlParse;
 using System.Threading;
 using System.Diagnostics;
 
-namespace StarsectorToolsExpansionDemo
+namespace StarsectorToolsExpansion.Demo
 {
     /// <summary>
     /// Page1.xaml 的交互逻辑
