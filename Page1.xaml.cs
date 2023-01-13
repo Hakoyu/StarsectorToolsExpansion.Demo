@@ -27,7 +27,7 @@ namespace StarsectorToolsExpansion.Demo
     /// </summary>
     public partial class Page1 : Page
     {
-        ObservableCollection<ModShowInfo> allModsShowInfo = new();
+       private readonly ObservableCollection<ModShowInfo> allModsShowInfo = new();
         private class ModShowInfo
         {
             public string Name { get; set; } = null!;
